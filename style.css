@@ -35,5 +35,6 @@ h1 {
 }
 .buttoncotfl:active{
   background-color: white;
+  border: solid white;
   color:white;
 }
