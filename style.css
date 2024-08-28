@@ -1,3 +1,15 @@
+body {
+  --deg: 90deg;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: unset;
+}
+
+* {
+  margin: 0;
+}
 h1 {
   color: black;
 }
